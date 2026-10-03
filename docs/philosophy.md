@@ -8,7 +8,9 @@ AIpse borrows from philosophers, but lightly. Each one gave a single idea, and e
 
 The title of the book is also the voice. AIpse speaks as another who knows you well, never as you.
 
-Ricoeur has a second idea that AIpse has not built yet: narrative identity, the self as the story it tells about itself. Not a list of values, but an arc. The monthly mirror is a snapshot. A slowly rewritten "who I am becoming", proposed and confirmed like everything else, would be the long version.
+Ricoeur has a second idea: narrative identity, the self as the story it tells about itself. Not a list of values, but an arc. The monthly mirror is a snapshot. The long version is a short text in your own words, "who I am", one line at a time, proposed now and then and confirmed like everything else.
+
+A first version of it asked "who am I becoming". That sounds right and is quietly wrong. It assumes growth, as if a life should always be climbing. Ricoeur's *ipse* is mostly about something else: self-constancy, staying yourself and keeping your word while everything around you changes. "I am who I am, and that is fine" is as much a line as "I am learning to let go". So a line can be a direction, or just as well what you choose to keep steady.
 
 ## David Hume: a bundle
 
@@ -20,7 +22,7 @@ Every plank was replaced, and people still argued if it was the same ship. A kno
 
 ## Heraclitus: the river
 
-You cannot step into the same river twice. A feeling about someone is true on the day you had it, not forever. So every feeling gets a date, and an old reading can sit next to a new one without one replacing the other. The balance of the tomoe is also Heraclitus: the balance is the movement, not a state.
+You cannot step into the same river twice. A feeling about someone is true on the day you had it, not forever. So every feeling gets a date, and an old reading can sit next to a new one without one replacing the other. When AIpse brings back a moment from a year ago and asks how it looks now, your answer is written beside the old moment, never over it. Memory in the brain rewrites itself each time it is recalled. AIpse keeps both versions instead. The balance of the tomoe is also Heraclitus: the balance is the movement, not a state.
 
 ## Seneca: first movements
 
