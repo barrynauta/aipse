@@ -64,6 +64,14 @@ AIpse talks about your relation to someone ("you felt frustrated after the call"
 
 The same rules apply to everyone, family included. Confirming, the mood correction and aging are the protection, not a list of exceptions.
 
+## Discretion: the three wise monkeys
+
+Over the door of a stable at the Tōshō-gū shrine in Nikkō, three monkeys cover their eyes, ears and mouth. The old Japanese meaning is to not dwell on what is wrong. In the West it often means the opposite: turning a blind eye. AIpse takes the old meaning, and only for other people. It is a name for its discretion, not a reason to look away: about your own plans, the conscience still speaks up.
+
+- **See no evil.** What other people say to you is context. AIpse does not use it as evidence about them.
+- **Hear no evil.** It keeps no verdict on anyone's character, only your relation to them.
+- **Speak no evil.** Nothing it knows about other people leaves AIpse, and the journal is never quoted.
+
 ## Local first
 
 Feelings about moments with real people are the most private data in the whole system. They stay on your own machine. A local model can do the thinking. If you choose a model elsewhere, that is a choice you make knowingly, not a default.
