@@ -47,3 +47,11 @@ Seneca wrote about "first movements": the flush of anger that comes before any d
 For Socrates this was a virtue you had to argue people into. In the brain it is a mechanism: the feeling that you know something comes before the answer does, and so does the feeling that you do not. Language models mostly lack it. They sound just as sure about a person they know from two old moments as about one they know from fifty.
 
 So the idea for AIpse: every answer about a person or a feeling carries how much it rests on. Build that signal, and the humility follows from it. Socrates had to argue for it. Here it falls out of the mechanism.
+
+## Ikigai: a reason to get up
+
+*Ikigai* is Japanese for "a reason for being". The psychiatrist Mieko Kamiya wrote about it in *Ikigai-ni-tsuite* (1966), the neuroscientist Ken Mogi much later in *The Little Book of Ikigai* (2017). In daily Japanese it is small: your grandchildren, the first coffee, the evening training, the garden. Not a mission. Large Japanese studies link having ikigai to a longer life, but they show a link, not a cause.
+
+There is also a Western ikigai: four circles, what you love, what you are good at, what the world needs and what you can be paid for. It is a 2014 blend of a Spanish purpose diagram with the Japanese word. It is a career tool, and it is not what the word means. AIpse leaves it out. A life does not need to be monetised to be worth it.
+
+The small ikigai fits AIpse well, because AIpse already sees it: the good moments, the spirit drop, the time with your people. So the idea is a question, not a feature: once a month, "what made the days worth it?", answered from the good moments you confirmed. Not a goal, not a score. A mirror of your own small reasons, in your own words, so that you notice them before they become ordinary.

@@ -32,6 +32,28 @@ The weekly step goes to the drop that lags. Each drop is measured against your o
 >
 > The drops are chasing: body is running, spirit is catching up.
 
+## When a step does not stick
+
+Stephen Covey (*The 7 Habits of Highly Effective People*, 1989) draws a habit as the place where three circles meet:
+
+- **knowledge:** what to do, and why,
+- **skill:** how to do it,
+- **desire:** wanting to do it.
+
+Miss one, and the habit does not form. A step that is skipped again and again is not a lazy step. One of the circles is missing.
+
+AIpse already holds all three, in different places. The why is in your values and in each goal's "why it matters". The how is the step itself. The want is in the limbic layer: your mood, your energy, what you felt this week.
+
+So the idea: when a step is skipped twice, AIpse does not push, and it does not just make the step smaller again. It asks which circle is missing.
+
+- **No why:** "Does this still serve something you care about?" Maybe the goal behind it is quiet, or gone.
+- **No how:** the step is too big or unclear. Make it smaller, or change one thing you already do.
+- **No want:** "You have had a heavy week. Leave it for now?" A step can wait until the energy is back.
+
+A nudge adds none of the three. Pushing harder mostly hurts the third circle, the wanting.
+
+Covey adds a moral under his picture: give up what you want now for what you want later. That is the conscience's "not now", and it is useful. But a conscience that only works in one direction is just a nanny. So AIpse takes the three circles and leaves the sacrifice.
+
 ## What it is not
 
 - **No streaks, no scores.** They turn growth into a game you can lose. A skipped step is simply skipped.
